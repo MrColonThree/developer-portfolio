@@ -82,9 +82,21 @@ nav a {
 .banner-description{
   max-width: 585px;
 }
+main{
+  max-width: 1140px;
+  margin: auto;
+
 .about{
   padding: 130px;
   background-color:#FFF8F3; 
   border-radius: 10px;
   margin: 130px 0;
+}
+.about-info-container{
+  display: flex;
+  justify-content: space-around;
+}
+.about-info{
+  text-align: center;
+
 }
