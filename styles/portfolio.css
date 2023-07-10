@@ -8,6 +8,7 @@ color: #181818;
 font-size: 45px;
 font-weight: 800;
 line-height: normal;
+letter-spacing: 5px;
 }
 .text-primary{
   color: #FD6E0A;
@@ -104,6 +105,9 @@ nav a:hover{
   margin-top: 5px; 
   
 }
+.btn-banner2{
+  margin-left: 10px;
+}
 .banner-description{
   max-width: 585px;
 }
@@ -146,7 +150,7 @@ font-weight: 700;
 }
 .resume-container{
   display: flex;
-  gap: 50px;
+  gap: 60px;
 }
 .resume-title-institute{
   margin-bottom: 20px;
